@@ -2,10 +2,16 @@
 ||update01.skyworth-cloud.com^$important
 ||sky.fs.skysrt.com^$important
 ||log.skysrt.com^$important
+||clog.skysrt.com^$important
+||sc-clog.skysrt.com^$important
 ||api.device.skysrt.com^$important
 ||t7z.cupid.ptqy.gitv.tv^$important
 ||t7z.cupid.iqiyi.com^$important
+||tc.ptskysrt.gitv.tv^$important
 ||active.tc.skysrt.com^$important
+||active-tc.ptskysrt.gitv.tv^$important
+||movie-tc.ptskysrt.gitv.tv^$important
+||business-video-tc.ptskysrt.gitv.tv^$important
 ||api.upgrade.skysrt.com^$important
 ||admaster.com.cn^$important
 ||vqq.admaster.com.cn^$important
@@ -14,5 +20,9 @@
 ||api.hoisin.hw.coocaatv.com^$important
 ||pfg.coocaa.wasu.tv^$important
 ||data-hoisin.coocaa.wasu.tv^$important
+||data-hoisin.coocaa.com^$important
 ||api-upgrade.coocaa.wasu.tv^$important
 ||pay.coocaa.com^$important
+||ota.baidu.com^$important
+||otareport.baidu.com^$important
+||xiaodu.baidu.com^$important
