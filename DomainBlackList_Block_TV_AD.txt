@@ -23,6 +23,10 @@
 ||data-hoisin.coocaa.com^$important
 ||api-upgrade.coocaa.wasu.tv^$important
 ||pay.coocaa.com^$important
+||api-home.ptskysrt.gitv.tv^$important
+||ota.ptqy.gitv.tv^$important
 ||ota.baidu.com^$important
 ||otareport.baidu.com^$important
 ||xiaodu.baidu.com^$important
+||wifimodule.doubimeizhi.com^$important
+||doh.ptqy.gitv.tv^$important
