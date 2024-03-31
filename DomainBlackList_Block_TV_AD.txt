@@ -25,11 +25,16 @@
 ||data-hoisin.coocaa.com^$important
 ||api-upgrade.coocaa.wasu.tv^$important
 ||pay.coocaa.com^$important
+||member.ptskysrt.gitv.tv^$important
 ||api-home.ptskysrt.gitv.tv^$important
+||push.skysrt.com^$important
 ||ota.ptqy.gitv.tv^$important
 ||ota.baidu.com^$important
 ||otareport.baidu.com^$important
 ||xiaodu.baidu.com^$important
+||tvshield.baidu.com^$important
+||bajintech.com^$important
+||update.dangbei.net^$important
 ||wifimodule.doubimeizhi.com^$important
 ||doh.ptqy.gitv.tv^$important
 ||pl.cp31.OTT.cibntv.net^$important
