@@ -12,6 +12,8 @@
 ||active-tc.ptskysrt.gitv.tv^$important
 ||movie-tc.ptskysrt.gitv.tv^$important
 ||business-video-tc.ptskysrt.gitv.tv^$important
+||apk.sky.fs.skysrt.com^$important
+||api.app.skysrt.com^$important
 ||api.upgrade.skysrt.com^$important
 ||admaster.com.cn^$important
 ||vqq.admaster.com.cn^$important
@@ -30,3 +32,4 @@
 ||xiaodu.baidu.com^$important
 ||wifimodule.doubimeizhi.com^$important
 ||doh.ptqy.gitv.tv^$important
+||pl.cp31.OTT.cibntv.net^$important
