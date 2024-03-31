@@ -1,0 +1,18 @@
+# Block ChuangWei TV AD
+||update01.skyworth-cloud.com^$important
+||sky.fs.skysrt.com^$important
+||log.skysrt.com^$important
+||api.device.skysrt.com^$important
+||t7z.cupid.ptqy.gitv.tv^$important
+||t7z.cupid.iqiyi.com^$important
+||active.tc.skysrt.com^$important
+||api.upgrade.skysrt.com^$important
+||admaster.com.cn^$important
+||vqq.admaster.com.cn^$important
+||v-play.coocaa.wasu.tv^$important
+||hoisin.coocaatv.com^$important
+||api.hoisin.hw.coocaatv.com^$important
+||pfg.coocaa.wasu.tv^$important
+||data-hoisin.coocaa.wasu.tv^$important
+||api-upgrade.coocaa.wasu.tv^$important
+||pay.coocaa.com^$important
