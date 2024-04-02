@@ -41,5 +41,7 @@
 ||log.skysrt^$important
 ||skysrt.liantou-3^$important
 ||skysrt.com^$important
+||upgrade.skysr^$important
+||upgrade.skysr.liantou-3^$important
 ||skyworthdigital.com^$important
 ||skyworthdigital.com.liantou-3^$important
