@@ -38,3 +38,8 @@
 ||wifimodule.doubimeizhi.com^$important
 ||doh.ptqy.gitv.tv^$important
 ||pl.cp31.OTT.cibntv.net^$important
+||log.skysrt^$important
+||skysrt.liantou-3^$important
+||skysrt.com^$important
+||skyworthdigital.com^$important
+||skyworthdigital.com.liantou-3^$important
