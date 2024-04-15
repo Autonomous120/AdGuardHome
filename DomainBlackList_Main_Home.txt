@@ -178,8 +178,6 @@
 # Censors
 ||gjfzpt.*^$important
 ||bbums.*^$important
-||bjca.*^$important
-||gdca.*^$important
 ||itrus.*^$important
 ||sheca.com^$important
 ||api.installer.xiaomi.com^$important
