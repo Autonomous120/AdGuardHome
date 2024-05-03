@@ -413,6 +413,7 @@
 ||antfortune.com^$important
 ||antgroup.com^$important
 ||oppomobile.*^$important
+||svipjcsh.*^$important
 # Pornographic
 ||immomo.com^$important
 ||tcp7.*^$important
