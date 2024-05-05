@@ -223,6 +223,7 @@
 ||log-upload.mihoyo.com^$important
 ||firebaselogging-pa.mihoyo.com^$important
 ||uspider.yuanshen.com^$important
+||cnuspider.yuanshen.com^$important
 ||a9vg.*^$important
 ||yegame.*^$important
 ||37.com^$important
