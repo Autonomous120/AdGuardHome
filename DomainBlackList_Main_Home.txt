@@ -216,6 +216,7 @@
 ||myyq.*^$important
 ||saayaa.*^$important
 # Games
+||pay.mihoyo.com^$important
 ||api-payment.mihoyo.com^$important
 ||ys-log-upload.mihoyo.com^$important
 ||log-upload.mihoyo.com^$important
