@@ -28,7 +28,6 @@
 ||sandai.*^$important
 ||soundcloud.com^$important
 ||vox.rocks^$important
-||dispatcher.is.autonavi.com^$important
 # SecurityGuards
 ||mackeeper.*^$important
 ||shoujiweishi.*^$important
