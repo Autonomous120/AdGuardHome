@@ -22,7 +22,6 @@
 ||ixiguavideo.com^$important
 ||mall.bilibili.com^$important
 ||pay.bilibili.com^$important
-||live.bilibili.com^$important
 ||300hu.com^$important
 ||xunlei.*^$important
 ||sandai.*^$important
