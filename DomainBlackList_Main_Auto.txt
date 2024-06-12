@@ -420,6 +420,7 @@
 ||antgroup.com^$important
 ||oppomobile.*^$important
 ||svipjcsh.*^$important
+||snipaste.buzz^$important
 # Pornographic
 ||immomo.com^$important
 ||tcp7.*^$important
