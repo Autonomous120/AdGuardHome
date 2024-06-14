@@ -137,6 +137,14 @@
 ||zhuoyao.qq.com^$important
 ||gamevip.qq.com^$important
 ||codol.qq.com^$important
+||dldir1v6.qq.com^$important
+||conf.sdk.qcloud.com^$important
+||mlvbdc.live.qcloud.com^$important
+||sjy.flv.wxqcloud.qq.com^$important
+||mlvbdc.live.qcloud.com^$important
+||hw.flv.wxqcloud.qq.com^$important
+||voipfinderliveplaythird.wxqcloud.qq.com^$important
+||pull-m1.wxlivecdn.com^$important
 # Baidu
 ||guanjia.baidu.*^$important
 ||liulanqi.baidu.*^$important
