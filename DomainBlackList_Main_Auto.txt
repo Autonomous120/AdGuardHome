@@ -58,6 +58,7 @@
 ||dashlane.*^$important
 ||roboform.*^$important
 ||remembear.*^$important
+||authy.com^$important
 # Tencent
 ||hao.qq.com^$important
 ||qzone.qq.com^$important
