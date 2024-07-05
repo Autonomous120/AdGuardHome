@@ -420,6 +420,9 @@
 ||oppomobile.*^$important
 ||svipjcsh.*^$important
 ||snipaste.buzz^$important
+||openvpn.app.link^$important
+||nmydf.org^$important
+||openvpm.com^$important
 # Pornographic
 ||immomo.com^$important
 ||tcp7.*^$important
