@@ -433,6 +433,7 @@
 ||openvpn.app.link^$important
 ||nmydf.org^$important
 ||openvpm.com^$important
+||k2ygoods.top^$important
 # Pornographic
 ||immomo.com^$important
 ||tcp7.*^$important
