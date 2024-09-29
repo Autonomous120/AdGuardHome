@@ -42,7 +42,6 @@
 ||nq.com^$important
 ||jiangmin.*^$important
 ||ruanmei.*^$important
-||huorong.*^$important
 ||norton.*^$important
 ||avira.*^$important
 ||iavira.*^$important
