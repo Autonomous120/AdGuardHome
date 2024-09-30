@@ -7,7 +7,6 @@
 ||woofonsol.*^$important
 ||yydsfans.com^$important
 ||immmmmm.top^$important
-||dldir1.qq.com^$important
 ||trace.qq.com^$important
 ||50union.com^$important
 ||toutiao.com^$important
