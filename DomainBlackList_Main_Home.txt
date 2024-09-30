@@ -313,7 +313,6 @@
 ||activate.adobe.com^$important
 ||hlrcv.stage.adobe.com^$important
 ||hl2rcv.adobe.com^$important
-||raidrive.com^$important
 ||update.aida64.com^$important
 ||charliemonroe.net^$important
 # Rogues
