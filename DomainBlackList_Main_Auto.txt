@@ -327,6 +327,7 @@
 ||raidrive.com^$important
 ||update.aida64.com^$important
 ||charliemonroe.net^$important
+||license.pdfexpert.com^$important
 # Rogues
 ||hao123.*^$important
 ||2345.cc^$important
