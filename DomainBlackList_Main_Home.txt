@@ -9,6 +9,7 @@
 ||woofonsol.*^$important
 ||yydsfans.com^$important
 ||immmmmm.top^$important
+||bugly.qq.com^$important
 ||trace.qq.com^$important
 ||50union.com^$important
 ||toutiao.com^$important
