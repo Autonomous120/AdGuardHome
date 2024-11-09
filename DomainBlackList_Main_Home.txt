@@ -4,6 +4,7 @@
 @@||duomai.com^$important
 ||app-analytics-services.com^$important
 ||audid-api.taobao.com^$important
+||umengcloud.com^$important
 ||51khs.com^$important
 ||grapefinance.*^$important
 ||woofonsol.*^$important
