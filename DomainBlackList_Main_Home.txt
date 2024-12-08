@@ -225,7 +225,7 @@
 ||firebaselogging-pa.mihoyo.com^$important
 ||uspider.yuanshen.com^$important
 ||cnuspider.yuanshen.com^$important
-# AntiPiracy
+# Adobe
 ||practivate.adobe.com^$important
 ||ereg.adobe.com^$important
 ||ereg.wip3.adobe.com^$important
@@ -246,6 +246,7 @@
 ||activate.adobe.com^$important
 ||hlrcv.stage.adobe.com^$important
 ||hl2rcv.adobe.com^$important
+# AntiPiracy
 ||update.aida64.com^$important
 ||charliemonroe.net^$important
 ||license.pdfexpert.com^$important
