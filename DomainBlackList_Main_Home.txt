@@ -62,6 +62,7 @@
 ||remembear.*^$important
 ||authy.com^$important
 # Tencent
+||dldir1.qq.com^$important
 ||hao.qq.com^$important
 ||qzone.qq.com^$important
 ||stock.qq.com^$important
