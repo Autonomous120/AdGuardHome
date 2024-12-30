@@ -63,6 +63,9 @@
 ||authy.com^$important
 # Tencent
 ||dldir1.qq.com^$important
+||dldir2.qq.com^$important
+||dl_dir.qq.com^$important
+||dlied6.qq.com^$important
 ||hao.qq.com^$important
 ||qzone.qq.com^$important
 ||stock.qq.com^$important
