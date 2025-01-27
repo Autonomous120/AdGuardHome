@@ -370,6 +370,7 @@
 ||k2ygoods.top^$important
 ||mshpl.cn^$important
 ||finalstepgo.com^$important
+||baizhangw.com^$important
 # Pornographic
 ||immomo.com^$important
 ||tcp7.*^$important
