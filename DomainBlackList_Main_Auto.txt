@@ -1,4 +1,5 @@
 # UserDefinedRules
+||wwads.cn^$important
 ||app-analytics-services.com^$important
 ||umengcloud.com^$important
 ||audid-api.taobao.com^$important
