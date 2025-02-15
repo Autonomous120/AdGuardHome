@@ -32,6 +32,7 @@
 ||soundcloud.com^$important
 ||vox.rocks^$important
 # SecurityGuards
+||kaspersky.*^$important
 ||mackeeper.*^$important
 ||shoujiweishi.*^$important
 ||360.cn^$important
