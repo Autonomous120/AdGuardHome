@@ -3,6 +3,7 @@
 @@||s.click.taobao.com^$important
 @@||duomai.com^$important
 ||wwads.cn^$important
+||bgg.baidu.com^$important
 ||app-analytics-services.com^$important
 ||audid-api.taobao.com^$important
 ||umengcloud.com^$important
