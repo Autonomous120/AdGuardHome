@@ -342,6 +342,7 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||google-chrom.cn^$important
 ||n20x.*^$important
 ||bitwarden.pro^$important
 ||chuantou.*^$important
