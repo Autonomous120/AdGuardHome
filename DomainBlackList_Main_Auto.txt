@@ -346,6 +346,10 @@
 ||adtime.com^$important
 # Fishing
 ||google-chrom.cn^$important
+||googlenav.cn^$important
+||chrome.net.cn^$important
+||downoss.com^$important
+||py010.cn^$important
 ||n20x.*^$important
 ||bitwarden.pro^$important
 ||chuantou.*^$important
