@@ -46,7 +46,6 @@
 ||ludashi.*^$important
 ||ijinshan.*^$important
 ||rising.*^$important
-||nq.com^$important
 ||jiangmin.*^$important
 ||ruanmei.*^$important
 ||huorong.*^$important
@@ -54,18 +53,6 @@
 ||avira.*^$important
 ||iavira.*^$important
 ||micropoint.*^$important
-# PasswordManager
-||passwork.*^$important
-||1password.*^$important
-||agilebits.*^$important
-||lastpass.*^$important
-||keepass.*^$important
-||keeqass.*^$important
-||keepassxc.*^$important
-||dashlane.*^$important
-||roboform.*^$important
-||remembear.*^$important
-||authy.com^$important
 # Tencent
 ||hao.qq.com^$important
 ||qzone.qq.com^$important
