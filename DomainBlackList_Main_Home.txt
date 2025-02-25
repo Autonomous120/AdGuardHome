@@ -328,6 +328,7 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||ygz8.cn^$important
 ||magicoo.cc^$important
 ||ygz8.cn^$important
 ||google-chrom.cn^$important
