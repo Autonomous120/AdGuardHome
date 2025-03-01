@@ -333,6 +333,7 @@
 ||adtime.com^$important
 # Fishing
 ||google-chrom.cn^$important
+||zh-googe.cn^$important
 ||googlenav.cn^$important
 ||chrome.net.cn^$important
 ||downoss.com^$important
