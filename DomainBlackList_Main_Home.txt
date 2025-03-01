@@ -331,6 +331,7 @@
 ||magicoo.cc^$important
 ||ygz8.cn^$important
 ||google-chrom.cn^$important
+||zh-googe.cn^$important
 ||googlenav.cn^$important
 ||chrome.net.cn^$important
 ||downoss.com^$important
