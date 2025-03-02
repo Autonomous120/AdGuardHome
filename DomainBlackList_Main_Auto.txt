@@ -423,6 +423,9 @@
 ||dns.jd.com^$important
 ||httpdns.pro^$important
 ||dns.weixin.qq.*^$important
+||aedns.weixin.qq.com^$important
+||dns.wechat.com^$important
+||usdns.wechat.com^$important
 ||dns.weibo.cn^$important
 ||httpdns.alicdn.com^$important
 ||httpdns-api.aliyuncs.com^$important
