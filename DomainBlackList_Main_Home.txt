@@ -330,6 +330,7 @@
 # Fishing
 ||magicoo.cc^$important
 ||ygz8.cn^$important
+||chrogme.com^$important
 ||google-chrom.cn^$important
 ||zh-googe.cn^$important
 ||googlenav.cn^$important
