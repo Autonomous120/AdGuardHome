@@ -332,6 +332,7 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||chrogme.com^$important
 ||google-chrom.cn^$important
 ||zh-googe.cn^$important
 ||googlenav.cn^$important
