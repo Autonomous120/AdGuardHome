@@ -332,6 +332,22 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||chrome.net^$important
+||chrome.org^$important
+||chrome.com.cn^$important
+||chrome.info^$important
+||oxy.com^$important
+||chrome.cc^$important
+||chrome.top^$important
+||chrome.wang^$important
+||zh-chrom.com^$important
+||google-zh.com^$important
+||chromcn.com^$important
+||chrome64.com^$important
+||chrome64.com.chuangcdn.com^$important
+||video.h.aocde.com^$important
+||chromeos.google^$important
+||abrowsers.com^$important
 ||chrogme.com^$important
 ||google-chrom.cn^$important
 ||zh-googe.cn^$important
