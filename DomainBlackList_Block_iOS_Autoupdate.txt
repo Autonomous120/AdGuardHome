@@ -10,7 +10,6 @@
 ||gdmf.apple.com.akadns.net^$important
 ||mesu-cdn.apple.com.akadns.net^$important
 ||mesu-cdn.origin-apple.com.akadns.net^$important
-||mesu.apple.com^$important
 ||mesu.g.aaplimg.com^$important
 ||ocsp-lb.apple.com.akadns.net^$important
 ||ocsp.apple.com^$important
