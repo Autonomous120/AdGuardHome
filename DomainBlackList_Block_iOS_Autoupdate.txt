@@ -2,7 +2,6 @@
 ||ns.itunes.apple.com^$important
 ||updates-http.cdn-apple.com^$important
 ||updates.cdn-apple.com^$important
-||xp.apple.com^$important
 ||appldnld-lb.apple.com.akadns.net^$important
 ||appldnld.apple.com^$important
 ||appldnld.apple.com.akadns.net^$important
