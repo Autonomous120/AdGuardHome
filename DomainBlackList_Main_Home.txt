@@ -218,7 +218,6 @@
 ||firebaselogging-pa.mihoyo.com^$important
 ||uspider.yuanshen.com^$important
 ||cnuspider.yuanshen.com^$important
-||h5log-api-dualstack.mihoyo.com^$important
 ||data-abtest-api.mihoyo.com^$important
 ||hk4e-sdk-s.mihoyo.com^$important
 ||apm-api.mihoyo.com^$important
