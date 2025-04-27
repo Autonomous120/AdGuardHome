@@ -332,6 +332,7 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||apple-team.com^$important
 ||chrome.net^$important
 ||chrome.org^$important
 ||chrome.com.cn^$important
