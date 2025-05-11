@@ -247,6 +247,7 @@
 ||charliemonroe.net^$important
 ||license.pdfexpert.com^$important
 # Rogues
+||hao.com^$important
 ||hao123.*^$important
 ||2345.cc^$important
 ||2345.cn^$important
