@@ -177,6 +177,7 @@
 ||httpsdns.baidu.com^$important
 ||httpdns.baidubce.com^$important
 # Censors
+||upsec.net^$important
 ||gjfzpt.*^$important
 ||bbums.*^$important
 ||bjca.*^$important
