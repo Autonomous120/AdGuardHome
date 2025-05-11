@@ -334,6 +334,8 @@
 ||cmcm.com^$important
 ||adtime.com^$important
 # Fishing
+||mkdmcdn.com^$important
+||ssl-dns.com^$important
 ||apple-team.com^$important
 ||chrome.net^$important
 ||chrome.org^$important
