@@ -424,6 +424,7 @@
 ||finalstepgo.com^$important
 ||baizhangw.com^$important
 # Pornographic
+||elsanz.cn^$important
 ||immomo.com^$important
 ||tcp7.*^$important
 ||a999d.*^$important
