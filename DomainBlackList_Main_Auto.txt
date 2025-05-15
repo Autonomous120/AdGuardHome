@@ -184,8 +184,6 @@
 ||gdca.*^$important
 ||itrus.*^$important
 ||sheca.com^$important
-||api.installer.xiaomi.com^$important
-||sec.miui.com^$important
 ||avlyun.com^$important
 ||gd96110.com.cn^$important
 ||96110.com.cn^$important
