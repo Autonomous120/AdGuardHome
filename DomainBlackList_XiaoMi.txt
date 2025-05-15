@@ -1,0 +1,7 @@
+# XiaoMi
+||ad.mi.com^$important
+||ad.xiaomi.com^$important
+||o2o.api.xiaomi.com^$important
+||gallery.pandora.xiaomi.com^$important
+||mishop.pandora.xiaomi.com^$important
+||mitv.tracking.miui.com^$important
