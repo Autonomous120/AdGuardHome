@@ -383,7 +383,6 @@
 ||telegram-apk.com^$important
 ||aicoims.com^$important
 ||cn-wps.com^$important
-||sougou-shurufa.com^$important
 ||i4.com.vn^$important
 ||titamic.com^$important
 ||simmem.com^$important
