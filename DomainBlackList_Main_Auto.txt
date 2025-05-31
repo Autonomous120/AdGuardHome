@@ -262,7 +262,6 @@
 ||rwbzx.*^$important
 ||eyunsou.*^$important
 ||37274.*^$important
-||sogou.*^$important
 ||antso.*^$important
 ||webshowu.*^$important
 ||newhua.com^$important
