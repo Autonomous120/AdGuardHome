@@ -1,18 +1,14 @@
 # Block iOS Autoupdate
-||ns.itunes.apple.com^$important
-||updates-http.cdn-apple.com^$important
-||updates.cdn-apple.com^$important
-||appldnld-lb.apple.com.akadns.net^$important
-||appldnld.apple.com^$important
-||appldnld.apple.com.akadns.net^$important
-||appldnld.g.aaplimg.com^$important
 ||gdmf.apple.com^$important
-||gdmf.apple.com.akadns.net^$important
+||mesu.apple.com^$important
 ||mesu-cdn.apple.com.akadns.net^$important
 ||mesu-cdn.origin-apple.com.akadns.net^$important
 ||mesu.g.aaplimg.com^$important
-||ocsp-lb.apple.com.akadns.net^$important
-||ocsp.apple.com^$important
-||ocsp.g.aaplimg.com^$important
-||gg.apple.com^$important
 ||swscan.apple.com^$important
+||swcdn.apple.com^$important
+||updates.cdn-apple.com^$important
+||updates-http.cdn-apple.com^$important
+||appldnld.apple.com^$important
+||appldnld.apple.com.akadns.net^$important
+||appldnld-lb.apple.com.akadns.net^$important
+||appldnld.g.aaplimg.com^$important
