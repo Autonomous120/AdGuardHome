@@ -1,0 +1,4 @@
+# Block iOS Autoupdate only for main version
+||gdmf.apple.com^$important
+||gdmf.apple.com.akadns.net^$important
+||swscan.apple.com^$important
