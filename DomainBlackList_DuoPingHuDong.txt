@@ -1,0 +1,7 @@
+||adc.hpplay.cn^$important
+||adcdn.hpplay.cn^$important
+||adeng.hpplay.cn^$important
+||rp.hpplay.cn^$important
+||rps.hpplay.cn^$important
+||vipgslb.hpplay.cn^$important
+||vipauth.hpplay.cn^$important
