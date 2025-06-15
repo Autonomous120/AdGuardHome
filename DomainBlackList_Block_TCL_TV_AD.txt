@@ -1,0 +1,14 @@
+# Block TCL TV AD
+||ads.huantest.com^$important
+||ads.huan.tv^$important
+||ads.api.my7v.com^$important
+||testads.api.my7v.com^$important
+||hwads-t.api.my7v.com^$important
+||tcloudfamily.com^$important
+||ads-ut.api.leiniao.com^$important
+||ads-uo.api.leiniao.com^$important
+||euads-o.api.leiniao.com^$important
+||hw-tdp-o.api.leiniao.com^$important
+||hwtpc-o.api.leiniao.com^$important
+||metric.gstatic.com^$important
+||sv-video.play.t002.ottcn.com^$important
