@@ -1,4 +1,5 @@
 # UserDefinedRules
+||ql.njmapp.com^$important
 ||wwads.cn^$important
 ||bgg.baidu.com^$important
 ||app-analytics-services.com^$important
