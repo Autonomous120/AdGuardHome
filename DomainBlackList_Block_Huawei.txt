@@ -1,0 +1,7 @@
+# Block Huawei Censors
+||harmonysecurity-open-api-drcn.emui.dbankcloud.cn^$important
+||store-drcn.hispace.dbankcloud.com^$important
+||contentcenter-drcn.dbankcdn.cn^$important
+||dnkeeper.platform.dbankcloud.cn^$important
+||hwid-drcn.platform.hicloud.com^$important
+||appoptimize-drcn.dbankcdn.cn^$important
