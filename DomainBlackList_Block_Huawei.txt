@@ -5,6 +5,9 @@
 ||dnkeeper.platform.dbankcloud.cn^$important
 ||hwid-drcn.platform.hicloud.com^$important
 ||appoptimize-drcn.dbankcdn.cn^$important
+||connectivitycheck.platform.hicloud.com^
+||abt-drcn.platform.dbankcloud.com^
+||connect-drcn.dbankcloud.cn^
 ||query.hicloud.com^
 ||vmall.com^$important
 ||hicloud.com^$domain=~appstore.huawei.com
