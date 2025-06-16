@@ -7,8 +7,11 @@
 ||appoptimize-drcn.dbankcdn.cn^$important
 ||connectivitycheck.platform.hicloud.com^
 ||abt-drcn.platform.dbankcloud.com^
+||update-drcn.platform.hicloud.com^$important
 ||connect-drcn.dbankcloud.cn^
 ||query.hicloud.com^
+||appsec.hicloud.com^$important
+||update.hicloud.com^
 ||vmall.com^$important
 ||hicloud.com^$domain=~appstore.huawei.com
 ||hihonor.com^$important
@@ -22,7 +25,6 @@
 ||appgallery.huawei.com^$domain=~appstore.huawei.com
 ||update.dbankcloud.com^
 ||systemupdate.dbankcloud.cn^
-||update.hicloud.com^
 ||systemupdate.platform.hicloud.com^
 ||hispace.hicloud.com/pas/patchauto^
 ||servicesupport.platform.hicloud.com/pas^
