@@ -13,4 +13,3 @@
 ||metric.gstatic.com^$important
 ||sv-video.play.t002.ottcn.com^$important
 ||tdp-o.api.leiniao.com^$important
-||activitymanage.api.my7v.com^$important
