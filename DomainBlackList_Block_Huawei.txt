@@ -5,3 +5,15 @@
 ||dnkeeper.platform.dbankcloud.cn^$important
 ||hwid-drcn.platform.hicloud.com^$important
 ||appoptimize-drcn.dbankcdn.cn^$important
+||query.hicloud.com^
+||vmall.com^$important
+||hicloud.com^$domain=~appstore.huawei.com
+||hihonor.com^$important
+||huawei.com^$domain=~appstore.huawei.com
+||privacyspace.hicloud.com^$important
+||safecenter.hicloud.com^$important
+||security.hicloud.com^$important
+||checkin.hicloud.com^$important
+||appcheck.huawei.com^$important
+||appsec.huawei.com^$important
+||appgallery.huawei.com^$domain=~appstore.huawei.com
