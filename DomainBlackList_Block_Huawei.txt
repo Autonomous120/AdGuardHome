@@ -5,6 +5,10 @@
 ||dnkeeper.platform.dbankcloud.cn^$important
 ||hwid-drcn.platform.hicloud.com^$important
 ||appoptimize-drcn.dbankcdn.cn^$important
+||apppromotion-drcn.dbankcdn.cn^$important
+||oauth-login-drcn.platform.dbankcloud.com^$important
+||business-drcn.cloud.dbankcloud.cn^$important
+||openapi-drcn.cloud.dbankcloud.cn^$important
 ||connectivitycheck.platform.hicloud.com^
 ||abt-drcn.platform.dbankcloud.com^
 ||update-drcn.platform.hicloud.com^$important
@@ -28,3 +32,5 @@
 ||systemupdate.platform.hicloud.com^
 ||hispace.hicloud.com/pas/patchauto^
 ||servicesupport.platform.hicloud.com/pas^
+||pay-drcn.iap.cloud.huawei.com.cn^$important
+||orders-drcn.iap.cloud.huawei.com.cn^$important
