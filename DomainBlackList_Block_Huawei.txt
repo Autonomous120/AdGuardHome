@@ -17,3 +17,9 @@
 ||appcheck.huawei.com^$important
 ||appsec.huawei.com^$important
 ||appgallery.huawei.com^$domain=~appstore.huawei.com
+||update.dbankcloud.com^
+||systemupdate.dbankcloud.cn^
+||update.hicloud.com^
+||systemupdate.platform.hicloud.com^
+||hispace.hicloud.com/pas/patchauto^
+||servicesupport.platform.hicloud.com/pas^
