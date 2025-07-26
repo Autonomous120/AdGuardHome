@@ -13,3 +13,10 @@
 ||metric.gstatic.com^$important
 ||sv-video.play.t002.ottcn.com^$important
 ||tdp-o.api.leiniao.com^$important
+||cedock.com^$important
+||duokanbox.com^$important
+||getpush.com^$important
+||hpplay.com^$important
+||tcloudfamily.com^$important
+||tclking.com^$important
+||xiaomor.com^$important
