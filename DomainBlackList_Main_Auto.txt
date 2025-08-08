@@ -20,8 +20,9 @@
 ||toutiao.com^$important
 ||kuaishou.com^$important
 ||huya.tv^$important
+||huya.com^$important
 ||douyu.tv^$important
-||yy.com^$important
+||douyu.com^$important
 ||snssdk.com^$important
 ||pstatp.com^$important
 ||amemv.com^$important
