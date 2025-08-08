@@ -19,7 +19,9 @@
 ||toutiao.com^$important
 ||kuaishou.com^$important
 ||huya.tv^$important
+||huya.com^$important
 ||douyu.tv^$important
+||douyu.com^$important
 ||yy.com^$important
 ||snssdk.com^$important
 ||pstatp.com^$important
