@@ -1,0 +1,5 @@
+# Aqara
+||track.aqara.cn^$important
+||graph.facebook.com^$important
+||community.aqara.com^$important
+||ohttp-relay1.fastly-edge.com^$important
