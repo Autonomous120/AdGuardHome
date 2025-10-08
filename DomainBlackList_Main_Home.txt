@@ -342,6 +342,7 @@
 ||chrome.cc^$important
 ||chrome.top^$important
 ||chrome.wang^$important
+||chrome.gs^$important
 ||zh-chrom.com^$important
 ||google-zh.com^$important
 ||chromcn.com^$important
