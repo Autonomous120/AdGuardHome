@@ -424,6 +424,8 @@
 ||mshpl.cn^$important
 ||finalstepgo.com^$important
 ||baizhangw.com^$important
+||aqwtxq.com^$important
+||dingding.im^$important
 # Pornographic
 ||elsanz.cn^$important
 ||immomo.com^$important
@@ -438,7 +440,6 @@
 ||4-j1.pt^$important
 ||stripchat.com^$important
 ||vda1688.com^$important
-||aqwtxq.com^$important
 # HTTP DNS
 ||amdc.alipay.com^$important
 ||amdc-sibling.alipay.com.cn^$important
