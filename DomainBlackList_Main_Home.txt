@@ -436,6 +436,7 @@
 ||4-j1.pt^$important
 ||stripchat.com^$important
 ||vda1688.com^$important
+||aqwtxq.com^$important
 # HTTP DNS
 ||amdc.alipay.com^$important
 ||amdc-sibling.alipay.com.cn^$important
