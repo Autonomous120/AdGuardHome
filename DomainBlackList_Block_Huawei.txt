@@ -34,3 +34,8 @@
 ||servicesupport.platform.hicloud.com/pas^
 ||pay-drcn.iap.cloud.huawei.com.cn^$important
 ||orders-drcn.iap.cloud.huawei.com.cn^$important
+||smarthome-drcn.dbankcdn.com^$important
+||smarthome.hicloud.com^$important
+||api.cloud.huawei.com^$important
+||contentcenter-drcn.dbankcdn.com^$important
+||scenario-drcn.things.dbankcloud.cn^$important
