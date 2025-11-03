@@ -425,6 +425,16 @@
 ||baizhangw.com^$important
 ||aqwtxq.com^$important
 ||dingding.im^$important
+||l0086.cn^$important
+||l0086.com^$important
+||l0000.cn^$important
+||l0000.com^$important
+||l00l0.cn^$important
+||l00l0.com^$important
+||100l0.cn^$important
+||100l0.com^$important
+||l0010.cn^$important
+||l0010.com^$important
 # Pornographic
 ||elsanz.cn^$important
 ||immomo.com^$important
