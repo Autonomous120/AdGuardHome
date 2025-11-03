@@ -427,10 +427,17 @@
 ||dingding.im^$important
 ||l0086.*^$important
 ||1OO86.*^$important
+||lOO86.*^$important
 ||l0000.*^$important
+||1OOOO.*^$important
+||lOOOO.*^$important
 ||l00l0.*^$important
 ||100l0.*^$important
 ||l0010.*^$important
+||lOOlO.*^$important
+||1OOlO.*^$important
+||lOO1O.*^$important
+||1OO1O.*^$important
 # Pornographic
 ||elsanz.cn^$important
 ||immomo.com^$important
