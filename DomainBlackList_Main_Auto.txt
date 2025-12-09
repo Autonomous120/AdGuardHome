@@ -5,8 +5,6 @@
 ||app-analytics-services.com^$important
 ||umengcloud.com^$important
 ||audid-api.taobao.com^$important
-||simba.taobao.com^$important
-||s.click.taobao.com^$important
 ||duomai.com^$important
 ||51khs.com^$important
 ||grapefinance.*^$important
