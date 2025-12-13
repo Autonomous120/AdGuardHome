@@ -49,10 +49,6 @@
 ||rising.*^$important
 ||jiangmin.*^$important
 ||ruanmei.*^$important
-||norton.*^$important
-||avira.*^$important
-||iavira.*^$important
-||micropoint.*^$important
 # Tencent
 ||dldir1.qq.com^$important
 ||dldir2.qq.com^$important
