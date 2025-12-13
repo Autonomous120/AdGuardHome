@@ -23,6 +23,7 @@
 ||douyu.tv^$important
 ||douyu.com^$important
 ||yy.com^$important
+||yystatic.com^$important
 ||snssdk.com^$important
 ||pstatp.com^$important
 ||amemv.com^$important
