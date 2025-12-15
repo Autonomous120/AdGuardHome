@@ -421,6 +421,8 @@
 ||baizhangw.com^$important
 ||aqwtxq.com^$important
 ||dingding.im^$important
+||niupilao.vip^$important
+||c3pool.org^$important
 ||l0086.*^$important
 ||1OO86.*^$important
 ||lOO86.*^$important
