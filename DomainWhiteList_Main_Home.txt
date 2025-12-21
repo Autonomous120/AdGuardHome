@@ -1,0 +1,6 @@
+# 放行淘宝系
+@@||simba.taobao.com^$important
+@@||s.click.taobao.com^$important
+@@||duomai.com^$important
+# 放行智能电视扫码键盘
+@@||shouji.sogou.com^$important
