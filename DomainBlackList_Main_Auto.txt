@@ -213,14 +213,6 @@
 ||theworld.*^$important
 ||myyq.*^$important
 ||saayaa.*^$important
-# Games
-||pay.mihoyo.com^$important
-||api-payment.mihoyo.com^$important
-||ys-log-upload.mihoyo.com^$important
-||log-upload.mihoyo.com^$important
-||firebaselogging-pa.mihoyo.com^$important
-||uspider.yuanshen.com^$important
-||cnuspider.yuanshen.com^$important
 # Adobe
 ||practivate.adobe.com^$important
 ||ereg.adobe.com^$important
