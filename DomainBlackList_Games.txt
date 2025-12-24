@@ -5,7 +5,6 @@
 ||ad-log-upload.mihoyo.com^$important
 ||ys-log-upload.mihoyo.com^$important
 ||sdk-log-upload.mihoyo.com^$important
-||act.mihoyo.com^$important
 ||act-api-takumi.mihoyo.com^$important
 ||act-api-takumi-static.mihoyo.com^$important
 ||h5collector.mihoyo.com^$important
