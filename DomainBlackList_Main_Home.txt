@@ -19,6 +19,7 @@
 ||huya.com^$important
 ||douyu.tv^$important
 ||douyu.com^$important
+||cc.163.com^$important
 ||yy.com^$important
 ||yystatic.com^$important
 ||snssdk.com^$important
