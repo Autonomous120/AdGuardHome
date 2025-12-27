@@ -36,6 +36,9 @@
 ||sandai.*^$important
 ||soundcloud.com^$important
 ||vox.rocks^$important
+||vueh5.dsmxp.com^$important
+||image.dsmxp.com^$important
+||secu100.net^$important
 # SecurityGuards
 ||mackeeper.*^$important
 ||shoujiweishi.*^$important
