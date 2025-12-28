@@ -125,6 +125,10 @@
 # 假火绒
 ||shdd0758.com^$important
 ||huorongcn.com^$important
+||huoronga.com^$important
+||huorongh.com^$important
+||huorongs.com^$important
+||huorongpc.com^$important
 ||apps-huorong.com.cn^$important
 # 假WPS
 ||wp-wps.cn^$important
