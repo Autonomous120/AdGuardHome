@@ -130,3 +130,5 @@
 ||wp-wps.cn^$important
 ||wps-wp.cn^$important
 ||wps-wp.com.cn^$important
+||wpssoft.com.cn^$important
+||on-wps.com^$important
