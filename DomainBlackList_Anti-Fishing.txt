@@ -88,6 +88,9 @@
 ||web-chrome.*^$important
 ||chromecn.*^$important
 ||chromem.*^$important
+||ipp-google.*^$important
+||go-google-chrome.*^$important
+||che-google.*^$important
 # 加速器、VPN类
 ||zh-aijiasu.com^$important
 ||ajsvpn.com^$important
