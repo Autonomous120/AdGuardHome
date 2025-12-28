@@ -62,7 +62,7 @@
 ||dingding.im^$important
 ||niupilao.vip^$important
 ||c3pool.org^$important
-# Chrome、Google类
+# 假Chrome、Google
 ||chrome.net^$important
 ||chrome.org^$important
 ||chrome.com.cn^$important
@@ -91,7 +91,7 @@
 ||ipp-google.*^$important
 ||go-google-chrome.*^$important
 ||che-google.*^$important
-# 加速器、VPN类
+# 假加速器、VPN类
 ||zh-aijiasu.com^$important
 ||ajsvpn.com^$important
 ||zh-mexc.com^$important
@@ -108,7 +108,7 @@
 ||ppdai.*^$important
 ||xjietiao.*^$important
 ||1qianbao.com^$important
-# 运营商类
+# 假运营商
 ||l0086.*^$important
 ||1OO86.*^$important
 ||lOO86.*^$important
@@ -122,7 +122,11 @@
 ||1OOlO.*^$important
 ||lOO1O.*^$important
 ||1OO1O.*^$important
-# 火绒类
+# 假火绒
 ||shdd0758.com^$important
 ||huorongcn.com^$important
 ||apps-huorong.com.cn^$important
+# 假WPS
+||wp-wps.cn^$important
+||wps-wp.cn^$important
+||wps-wp.com.cn^$important
