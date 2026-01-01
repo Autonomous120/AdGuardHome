@@ -63,6 +63,12 @@
 ||dingding.im^$important
 ||niupilao.vip^$important
 ||c3pool.org^$important
+||lovefi.top^$important
+||seclokantasi.com^$important
+||hrtrainup.com^$important
+||bleakishflight.info^$important
+||redafy.nl^$important
+||nextowave.online^$important
 # 假Chrome、Google
 ||chrome.net^$important
 ||chrome.org^$important
