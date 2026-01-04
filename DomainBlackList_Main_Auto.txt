@@ -39,21 +39,6 @@
 ||vueh5.dsmxp.com^$important
 ||image.dsmxp.com^$important
 ||secu100.net^$important
-# SecurityGuards
-||mackeeper.*^$important
-||shoujiweishi.*^$important
-||360.cn^$important
-||360.com^$important
-||360totalsecurity.*^$important
-||360shouji.*^$important
-||360anquan.*^$important
-||360aqws.*^$important
-||ludashi.*^$important
-||ijinshan.*^$important
-||duba.net^$important
-||rising.*^$important
-||jiangmin.*^$important
-||ruanmei.*^$important
 # Tencent
 ||hao.qq.com^$important
 ||qzone.qq.com^$important
