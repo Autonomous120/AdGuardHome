@@ -69,6 +69,9 @@
 ||bleakishflight.info^$important
 ||redafy.nl^$important
 ||nextowave.online^$important
+# 银狐
+||360ccm.*^$important
+||xiazaiabcd7.*^$important
 # 假Chrome、Google
 ||chrome.net^$important
 ||chrome.org^$important
