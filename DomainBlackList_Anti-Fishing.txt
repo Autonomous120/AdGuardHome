@@ -69,6 +69,7 @@
 ||bleakishflight.info^$important
 ||redafy.nl^$important
 ||nextowave.online^$important
+||llxhq.com^$important
 # 银狐
 ||360ccm.*^$important
 ||xiazaiabcd7.*^$important
