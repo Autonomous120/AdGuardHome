@@ -23,8 +23,6 @@
 ||douyu.tv^$important
 ||douyu.com^$important
 ||cc.163.com^$important
-||snssdk.com^$important
-||pstatp.com^$important
 ||amemv.com^$important
 ||ixigua.com^$important
 ||ixiguavideo.com^$important
