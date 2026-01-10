@@ -13,7 +13,6 @@
 ||bugly.qq.com^$important
 ||trace.qq.com^$important
 ||50union.com^$important
-||toutiao.com^$important
 ||kuaishou.com^$important
 ||huya.tv^$important
 ||huya.com^$important
