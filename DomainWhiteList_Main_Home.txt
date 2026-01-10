@@ -4,3 +4,5 @@
 @@||duomai.com^$important
 # 放行智能电视扫码键盘
 @@||shouji.sogou.com^$important
+# 放行头条系
+@@||ib.snssdk.com^$important
