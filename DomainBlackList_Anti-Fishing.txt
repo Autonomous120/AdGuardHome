@@ -148,3 +148,5 @@
 ||wps-wp.com.cn^$important
 ||wpssoft.com.cn^$important
 ||on-wps.com^$important
+# 假iCloud
+||cno.lat^$important
