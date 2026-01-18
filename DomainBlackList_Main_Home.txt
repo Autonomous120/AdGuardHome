@@ -163,6 +163,7 @@
 ||gd96110.com.cn^$important
 ||96110.com.cn^$important
 ||govfz.com^$important
+||rustdesk.com^$important
 # InputMethod
 ||z.weixin.qq.com^$important
 ||shurufa.qq.com^$important
