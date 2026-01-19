@@ -150,3 +150,5 @@
 ||on-wps.com^$important
 # 假iCloud
 ||cno.lat^$important
+# 假PotPlayer
+||potplayercn.com^$important
