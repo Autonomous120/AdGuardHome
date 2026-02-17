@@ -152,3 +152,5 @@
 ||cno.lat^$important
 # 假PotPlayer
 ||potplayercn.com^$important
+# 假远程桌面工具
+||orayc.com^$important
