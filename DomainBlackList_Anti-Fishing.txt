@@ -71,6 +71,7 @@
 ||nextowave.online^$important
 ||llxhq.com^$important
 ||zhuzhu009.*^$important
+||zte88.top^$important
 # 银狐
 ||360ccm.*^$important
 ||xiazaiabcd7.*^$important
