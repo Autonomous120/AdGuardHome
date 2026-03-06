@@ -218,6 +218,7 @@
 ||update.aida64.com^$important
 ||charliemonroe.net^$important
 ||license.pdfexpert.com^$important
+||www.raidrive.com^$important
 # Rogues
 ||hao.com^$important
 ||hao123.*^$important
