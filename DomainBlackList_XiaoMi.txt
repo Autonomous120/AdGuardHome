@@ -5,3 +5,4 @@
 ||gallery.pandora.xiaomi.com^$important
 ||mishop.pandora.xiaomi.com^$important
 ||mitv.tracking.miui.com^$important
+||device-proxy.sec.xiaomi.com^$important
